@@ -15,9 +15,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/graxz)](https://github.com/graxz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaddorafreitas/)](https://www.linkedin.com/in/isaddorafreitas/)
 
-[![Graxz GitHub stats](https://github-readme-stats.vercel.app/api?username=graxz&theme=material-palenight&show_icons=true)](https://github.com/graxz)
-
-Caso esteja um rank baixo, tenho certeza que é por causa dos times que são privados! :grin:
+[![Graxz GitHub stats](https://github-readme-stats.vercel.app/api?username=graxz&theme=material-palenight&show_icons=true&count_private=true)](https://github.com/graxz)
 
 ## Emblems
 
