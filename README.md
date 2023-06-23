@@ -15,7 +15,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/graxz)](https://github.com/graxz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaddorafreitas/)](https://www.linkedin.com/in/isaddorafreitas/)
 
-[![Graxz GitHub stats](https://github-readme-stats.vercel.app/api?username=graxz&theme=tokyonight&show_icons=true&count_private=true&hide=contribs,issues)](https://github.com/graxz)
+[![Graxz GitHub stats](https://github-readme-stats.vercel.app/api?username=graxz&theme=tokyonight&show_icons=true&count_private=true&hide=issues&rank_icon=percentile )](https://github.com/graxz)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graxz&layout=compact&theme=tokyonight)
 
 ## Emblems
