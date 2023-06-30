@@ -4,7 +4,7 @@
 
 :house_with_garden: Sou de SP/Brasil.
 
-🕹️ Meu hobbie principal é jogar!.
+🕹️ Meu hobbie principal é jogar!
 
 😽😾 Tenhos dois gatos! Um bem bravo e outro bem tranquilo XD
 
